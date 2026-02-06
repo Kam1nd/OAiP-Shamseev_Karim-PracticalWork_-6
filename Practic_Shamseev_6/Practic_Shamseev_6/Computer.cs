@@ -24,7 +24,7 @@ class Computer
 
     public virtual void OptimizeResources()
     {
-        Console.WriteLine("Background processes optimized for desktop workload.");
+        Console.WriteLine("Background processes optimized for desktop workloadddd.");
     }
 
     public void ConnectPeripherals()
