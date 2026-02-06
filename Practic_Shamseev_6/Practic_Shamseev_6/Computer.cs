@@ -29,7 +29,7 @@ class Computer
 
     public void ConnectPeripherals()
     {
-        Console.WriteLine("Wired peripherals detected: keyboard, mouse, external monitor");
+        Console.WriteLine("Wired peripherals detected: keyboard, mouse, external monitorssss");
     }
 
     public void ManageCoolingSystem()
